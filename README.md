@@ -11,9 +11,9 @@
 
 ## Технології
 
-React (useState, useEffect)
-React Icons (GoSearch)
-Fetch API
-CSS для стилізації
-Edamam Recipe API
+- React (useState, useEffect)
+- React Icons (GoSearch)
+- Fetch API
+- CSS для стилізації
+- Edamam Recipe API
 
