@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import './App.css';
 import myVideo from './video.mp4';
 import { GoSearch } from "react-icons/go";
-import MyRecipesComponents from './myRecipesComponents';
+import MyRecipesComponents from './MyRecipesComponents';
 function App() {
 
   const [mySearch, setMySearch] = useState('');
