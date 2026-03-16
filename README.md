@@ -1,4 +1,5 @@
 ## Recipe-finder — це невеликий React-додаток для пошуку рецептів.
+https://recipe-finder-react.harlamformula.workers.dev/
 
 Він використовує API Edamam для отримання рецептів за ключовим словом.
 
